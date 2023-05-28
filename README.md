@@ -1,4 +1,4 @@
-Project type: Desktop
+Project type: Desktop<br>
 Programming language: C++
 Variant: "Менеджер товаров"
 
