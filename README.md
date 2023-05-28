@@ -1,8 +1,8 @@
-                       МЕНЕДЖЕР ТОВАРОВ<br><br>
+МЕНЕДЖЕР ТОВАРОВ<br><br>
 Project type: Desktop<br>
 Programming language: C++<br>
 Variant: "Менеджер товаров"<br><br>
- #СОДЕРЖАНИЕ<br><br>
+СОДЕРЖАНИЕ<br><br>
 #1 [Diargams](https://github.com/kirilsemenenya/trtpo_lab/tree/main/Diagrams)<br>
 #1.1 [Activity diagrams](https://github.com/kirilsemenenya/trtpo_lab/tree/main/Diagrams/Activity%20diagrams)<br>
 #1.2 [Sequence diagrams](https://github.com/kirilsemenenya/trtpo_lab/tree/main/Diagrams/Sequence%20diagrams)<br>
