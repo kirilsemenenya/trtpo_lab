@@ -2,6 +2,6 @@ Project type: Desktop
 Programming language: C++
 Variant: "Менеджер товаров"
 
-# Diagrams
+# Diagrams (Diargams)
 # Documentatian
 # Mockup
