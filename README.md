@@ -1,7 +1,7 @@
 МЕНЕДЖЕР ТОВАРОВ<br><br>
 Project type: Desktop<br>
-Programming language: C++<br>
-Variant: "Менеджер товаров"<br><br>
+Programming language: C++<br><br>
+
 СОДЕРЖАНИЕ<br><br>
 #1 [Diargams](https://github.com/kirilsemenenya/trtpo_lab/tree/main/Diagrams)<br>
 #1.1 [Activity diagrams](https://github.com/kirilsemenenya/trtpo_lab/tree/main/Diagrams/Activity%20diagrams)<br>
