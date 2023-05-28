@@ -1,5 +1,5 @@
 Project type: Desktop
 Programming language: C++
-Variant: "Менеджер личной коллекции книг / фильмов"
+Variant: "Менеджер товаров"
 
 # trtpo_lab
